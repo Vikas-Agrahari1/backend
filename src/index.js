@@ -11,7 +11,7 @@ const cors = require('cors')
 // console.log("Hello")
 
 app.use(cors({
-    origin: 'https://frontend-indol-nine-12.vercel.app/',
+    origin: 'https://frontend-indol-nine-12.vercel.app',
     credentials: true 
 }))
 
